@@ -4,10 +4,32 @@ class Publications extends Component {
 	render() {
 
 		if (this.props.data) {
-			console.log(this.props.data.publications);
+
+
+
 			var publications = this.props.data.publications.map(function (publication) {
-				return <li><div key={publication.authors}>{publication.authors} <a href={publication.link}>{publication.title}</a> <i>{publication.paper}</i></div></li>
+
+				console.log(publication);
+
+				var extraInfos = "";
+
+				if (publication.extraInformation != null) {
+					extraInfos = publication.extraInformation.map(function (extraInfo) {
+						return <div className="extraInfo" key={extraInfo.link}><a href={extraInfo.link}>{extraInfo.information}</a></div>
+					})
+				}
+
+				console.log(extraInfos);
+
+				return <li>
+					<div key={publication.authors}>{publication.authors} <a href={publication.link}>{publication.title}</a>
+						<i> {publication.paper}</i>
+						<div className="extraInfoPanel">
+							{extraInfos}
+						</div>
+					</div></li>
 			})
+			console.log(publications);
 		}
 
 		return (

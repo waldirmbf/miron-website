@@ -299,12 +299,27 @@ ul#nav li.current a {
 
 #publications a,
 #publications a:visited {
-	color: #9d561d;
+	color: #085d60;
+	text-decoration: underline;
 }
 
 #publications a:hover,
 #publications a:focus {
-	color: #313131;
+	color: #085d60;
+}
+
+#publications .extraInfoPanel {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-evenly;
+	padding-top: 10px;
+}
+
+#publications .extraInfo {
+	margin: 0px 0px 10px 0px;
+	justify-content: center;
+	font: 14px 'opensans-bold', sans-serif;
+	text-decoration: underline;
 }
 
 #publications h1 {
@@ -314,7 +329,7 @@ ul#nav li.current a {
 }
 
 #publications h1 span {
-	border-bottom: 3px solid #9d561d;
+	border-bottom: 3px solid #085d60;
 	padding-bottom: 6px;
 }
 
@@ -661,42 +676,48 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* g. Testimonials
+/* g. News
 /* ------------------------------------------------------------------ */
 
-#testimonials {
-	background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
-	background-size: cover !important;
-	-webkit-background-size: cover !important;
-	background-attachment: fixed;
-
-	position: relative;
-	min-height: 200px;
-	width: 100%;
-	overflow: hidden;
+#news .text-container {
+	padding-top: 90px;
+	padding-bottom: 72px;
 }
 
-#testimonials .text-container {
-	padding-top: 96px;
-	padding-bottom: 66px;
-}
-
-#testimonials h1 {
+#news h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
-	letter-spacing: 3px;
+	letter-spacing: 5px;
 	color: #fff;
+	padding-bottom: 16px;
 }
 
-#testimonials h1 span {
-	display: none;
+/* #news hr {
+	width: 20%;
+	align-content: center;
+	margin: auto;
+} */
+
+#news .date {
+	margin: 0 0 10px 0;
+	padding-top: 8px;
 }
 
-#testimonials .header-col {
-	padding-top: 9px;
+#news .title {
+	margin: 0 0 10px 0;
+	padding-top: 4px;
+	font: 15px/22px 'opensans-bold', sans-serif;
+	letter-spacing: 1px;
+	color: #11ABB0;
 }
 
-#testimonials .header-col h1:before {
+#news .content {
+	margin: 0 0 10px 0;
+	padding-bottom: 16px;
+	color: #E3E3E3;
+}
+
+#news .header-col h1:before {
 	font-family: 'FontAwesome';
 	content: "\f10d";
 	padding-right: 10px;
@@ -705,105 +726,6 @@ call-to-action .button {
 	text-align: left;
 	float: left;
 	color: #fff;
-}
-
-/*	Blockquotes */
-#testimonials blockquote {
-	margin: 0 0px 30px 0px;
-	padding-left: 0;
-	position: relative;
-	text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-}
-
-#testimonials blockquote:before {
-	content: none;
-}
-
-#testimonials blockquote p {
-	font-family: 'librebaskerville-italic', serif;
-	padding: 0;
-	font-size: 24px;
-	line-height: 48px;
-	color: #fff
-}
-
-#testimonials blockquote cite {
-	display: block;
-	font-size: 12px;
-	font-style: normal;
-	line-height: 18px;
-	color: #fff;
-}
-
-#testimonials blockquote cite:before {
-	content: "\2014 \0020";
-}
-
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited {
-	color: #8B9798;
-	border: none
-}
-
-/* Flex Slider
-/* ------------------------------------------------------------------ */
-
-/* Reset */
-.flexslider a:active,
-.flexslider a:focus {
-	outline: none;
-}
-
-.slides,
-.flex-control-nav,
-.flex-direction-nav {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-}
-
-.slides li {
-	margin: 0;
-	padding: 0;
-}
-
-/* Necessary Styles */
-.flexslider {
-	position: relative;
-	zoom: 1;
-	margin: 0;
-	padding: 0;
-}
-
-.flexslider .slides {
-	zoom: 1;
-}
-
-.flexslider .slides>li {
-	position: relative;
-}
-
-/* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides>li {
-	display: none;
-	-webkit-backface-visibility: hidden;
-}
-
-/* Suggested container for slide animation setups. Can replace this with your own */
-.flex-container {
-	zoom: 1;
-	position: relative;
-}
-
-/* Clearfix for .slides */
-.slides:before,
-.slides:after {
-	content: " ";
-	display: table;
-}
-
-.slides:after {
-	clear: both;
 }
 
 /* No JavaScript Fallback */

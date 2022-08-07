@@ -62,30 +62,148 @@
 				"authors": "Lira MG*, Berbel-Filho WM*, Espírito-Santo HMV, Tatarenkov A, Avise JC, de Leaniz CG, Consuegra S, Lima SMQ. 2021.",
 				"title": "Filling the gaps: phylogeography of the self-fertilizing Kryptolebias species (Cyprinodontiformes: Rivulidae) along South American mangroves.",
 				"paper": "Journal of Fish Biology 99:644-655 *equal contribution",
-				"link": "https://onlinelibrary.wiley.com/doi/10.1111/jfb.14753"
+				"link": "https://onlinelibrary.wiley.com/doi/10.1111/jfb.14753",
+				"extraInformation": [
+					{
+						"information": "Featured in Heredity's podcast",
+						"link": "https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLm5hdHVyZS5jb20vaGR5L3BvZGNhc3QvY3VycmVudA"
+					},
+					{
+						"information": "NatureEcoEvoCommunity blog",
+						"link": "https://natureecoevocommunity.nature.com/posts/so-similar-yet-so-different-a-tale-of-two-fishes"
+					}
+				]
 			},
 			{
-				"authors": "authors",
-				"title": "title",
-				"paper": "paper",
+				"authors": "Lima SMQ, Berbel-Filho WM, Vilasboas A, Lazoski C, Volpi TA, Lazzaroto H, Russo CAM, Tatarenkov A, Avise JC, Solé-Cava A. 2021",
+				"title": "Rio de Janeiro and other palaeodrainages evidenced by the genetic structure of an Atlantic Forest catfish.",
+				"paper": "Journal of Biogeography 48:1475-1488.",
 				"link": "https://google.com"
 			},
 			{
-				"authors": "authors",
-				"title": "title",
-				"paper": "paper",
+				"authors": "Preprint:​ Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S.",
+				"title": "Additive and non-additive epigenetic signatures of hybridisation between fish species with different mating systems.",
+				"paper": "BioRkiv",
 				"link": "https://google.com"
 			},
 			{
-				"authors": "authors",
-				"title": "title",
-				"paper": "paper",
+				"authors": "Berbel-Filho WM, Tatarenkov A, Espírito-Santo HMV, Lira MG, de Leaniz CG, Lima SMQ, Consuegra S.",
+				"title": "More than meets the eye: syntopic and morphologically similar mangrove killifish species show different mating systems and patterns of genetic structure along the Brazilian coast.",
+				"paper": "Heredity 125:340-352.\n\nFeatured in Heredity's podcast | NatureEcoEvoCommunity blog | Preprint version at BioRkiv.",
 				"link": "https://google.com"
 			},
 			{
-				"authors": "authors",
-				"title": "title",
-				"paper": "paper",
+				"authors": "Berbel-Filho WM, Berry N, Rodríguez-Barreto D, Teixeira SR, de Leaniz CG, Consuegra S. 2020.",
+				"title": "Environmental enrichment induces intergenerational behavioural and epigenetic efffecs on fish.",
+				"paper": "Molecular Ecology 29:2288-2299.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Godeiro NN, Pacheco G, Liu S, Cipola NG, Berbel-Filho WM, Zang F, Gilbert MTP, Bellini BC.  2020.",
+				"title": "Phylogeny of Neotropical Seirinae (Collembola, Entomobryidae) based on mitochondrial genomes.",
+				"paper": "Zoologica Scripta 49:329-339.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM. 2020.",
+				"title": "The relative roles of genetic and epigenetic variation on the ecology and evolution of mangrove killifishes (Kryptolebias spp.).",
+				"paper": "PhD thesis on Biological sciences, Swansea University, Swansea, United Kingdom.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, de Leaniz CG, Morán P, Cable J, Lima SMQ, Consuegra S. 2019.",
+				"title": "Local parasite pressures and host genotype modulate epigenetic diversity in a mixed-mating fish.",
+				"paper": "Ecology and Evolution 9: 8736-8749.\n\nPreprint version at BioRkiv.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Rodríguez-Barreto D, Berry N, de Leaniz CG, Consuegra S. 2019.",
+				"title": "Contrasting DNA methylation responses of inbred fish lines to different rearing environments.",
+				"paper": "Epigenetics 14: 938-949.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Ramos TPA, Jacobina UP, Maia DJG, Torres RA, Lima SMQ. 2018.",
+				"title": "Updated checklist and DNA barcode-based species delimitations reveal taxonomic uncertainties among freshwater fishes from the Mid-north-eastern Caatinga ecoregion, north-eastern Brazil.",
+				"paper": "Journal of Fish Biology 93: 311-323.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM,  Barros-Neto LF, Dias RM, Mendes LF, Figueiredo CAA, Torres RA, Lima SMQ. 2018.",
+				"title": "Poecilia vivipara Bloch and Schneider 1801 (Cyprinodontiformes, Poeciliidae), a guppy in an oceanic archipelago: from where did it come?",
+				"paper": "ZooKeys 746:91-104.\n\nLink to EurekAlert! Link to National Geographic news",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Barton H, Berbel-Filho WM, Consuegra S, Francis L, Tizaoui C, Conlan RS, Teixeira SR. 2018.",
+				"title": "Ultrasensitive environmental assessment of xeno-estrogens in water samples using label-free graphene immunosensors.",
+				"paper": "Analytical Biochemistry 54:102-108.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima SMQ, Berbel-Filho WM, Araújo TFP, Lazzarotto H, Tatarenkov A, Avise JC. 2017.",
+				"title": "Headwater capture evidenced by paleo-rivers reconstruction and population genetic structure of the armored catfish (Pareiorhaphis garbei) in the Serra do Mar mountains of southeastern Brazil.",
+				"paper": "Frontiers in Genetics 8:199.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Tatarenkov A, Lima SMQ, Earley RL, Berbel-Filho WM, Vermeulen FBM, Taylor DS, Marson K et al. 2017.",
+				"title": "Deep and concordant subdivisions in the self-fertilizing mangrove killifishes (Kryptolebias) revealed by nuclear and mtDNA markers.",
+				"paper": "Biological Journal of the Linnean Society 122:558-578.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima FD, Berbel-Filho WM, Leite TS, Rosas C, Lima SMQ. 2017.",
+				"title": "Occurrence of Octopus insularis Leite and Haimovici, 2008 in the Tropical Northwestern Atlantic and implications of species misidentification to octopus fisheries management.",
+				"paper": "Marine Biodiversity 47:723-724",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho, Espírito-Santo HMV, Lima SMQ. 2016.",
+				"title": "First record of a male of Kryptolebias hermaphroditus Costa, 2011 (Cyprinodontiformes: Cynolebiidae).",
+				"paper": "Neotropical Ichthyology 14:e160024.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Lima SMQ, Vasconcellos AV, Berbel-Filho WM, Lazoski C, Russo CAM, Sazima I, Solé-Cava AM. 2016.",
+				"title": "Effects of Pleistocene climatic and geomorphological changes on the population structure of the restricted-range catfish Trichogenes longipinnis (Siluriformes: Trichomycteridae).",
+				"paper": "Systematics and Biodiversity 14:155-170.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Martinez PA, Ramos TPA, Torres RA, Lima SMQ. 2016.",
+				"title": "Inter- and intra-basin phenotypic variation in two riverine cichlids from northeastern Brazil: potential eco-evolutionary damages of São Francisco interbasin water transfer.",
+				"paper": "Hydrobiologia 766:43-56.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Molina WF, Pacheco GA, Berbel-Filho WM. 2014.",
+				"title": "Padrões citogenéticos de duas espécies de ciclídeos de bacias do semi-árido do brasil: Crenicichla menezesi e Cichlasoma orientale.",
+				"paper": "Biota Amazônia 4:33-39.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM. 2014.",
+				"title": "Sistemática integrativa de Cichlasoma orientale Kullander 1983 e Crenicihla menezesi Ploeg 1991 (Teleostei: Cichlidae) das bacias hidrográficas do Nordeste do Brasil.",
+				"paper": "Msc Thesis on Systematics and Evolution Program, Universidade Federal do Rio Grande do Norte, Brazil.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Brito MFG, Lima SMQ, Berbel-Filho WM, Torres RA. 2014.",
+				"title": "New records and distribution extension of Hyphessobrycon itaparicensis Lima & Costa, 2001 (Characiformes: Characidae) in coastal drainages of Sergipe state, northeastern Brazil.",
+				"paper": "Checklist 10: 1156-1160.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Berbel-Filho WM, Jacobina UP, Martinez PA. 2013.",
+				"title": "Preservation effects in geometric morphometric approaches: freezing and alcohol in a freshwater fish.",
+				"paper": "Ichthyological Research 60:268-271.",
+				"link": "https://google.com"
+			},
+			{
+				"authors": "Martinez PA, Berbel-Filho WM, Jacobina UP. 2013.",
+				"title": "Is formalin fixation and ethanol preservation able to influence in geometric morphometric analysis? Fishes as a case study.",
+				"paper": "Zoomorphology 132:87-93.",
 				"link": "https://google.com"
 			}
 		]
@@ -121,19 +239,49 @@
 	"news": {
 		"news": [
 			{
+				"date": "July 8th, 2022",
 				"title": "Breaking news!",
-				"image": "",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper."
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
 			},
 			{
+				"date": "July 8th, 2022",
 				"title": "One more new",
-				"image": "",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper."
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
 			},
 			{
-				"title": "Guess what?",
-				"image": "",
-				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper."
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "July 8th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "June 14th, 2022",
+				"title": "One more new",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
+			},
+			{
+				"date": "December 31st, 2021",
+				"title": "Guess what? Happy new year!",
+				"content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh."
 			}
 		]
 	}
