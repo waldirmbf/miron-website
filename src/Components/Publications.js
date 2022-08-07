@@ -42,7 +42,7 @@ class Publications extends Component {
 
 					<div className="nine columns main-col">
 						<div className="row item">
-							<div className="twelve columns">
+							<div>
 								<ol reversed>
 									{publications}
 								</ol>

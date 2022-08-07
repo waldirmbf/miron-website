@@ -8,7 +8,7 @@ class Research extends Component {
 				var projectImage = 'images/research/' + research.image;
 				return <div key={research.title}>
 					<img alt={research.title} src={projectImage} />
-					<h5>{research.title}</h5>
+					<h2>{research.title}</h2>
 					<p>{research.description}</p>
 				</div>
 			})
@@ -22,10 +22,9 @@ class Research extends Component {
 					<div>
 
 						<h1>Research</h1>
-
-						{/* <div id="research-wrapper" className="bgrid-quarters s-bgrid-thirds cf"> */}
-						{research}
-						{/* </div> */}
+						<div className="research-content">
+							{research}
+						</div>
 					</div>
 				</div>
 			</section>

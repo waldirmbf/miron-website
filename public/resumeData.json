@@ -2,10 +2,10 @@
 	"main": {
 		"name": "Waldir Miron",
 		"occupation": "PostDoctoral Researcher",
-		"description": " I am an evolutionary biologist interested in many question, ranging from the mechanisms generating phenotypic plasticity to the evolution of different reproductive systems.",
 		"image": "profilepic.jpg",
-		"bio": "My name is Waldir M. Berbel-Filho and thanks for visiting my website. I have a broad interest in evolutionary biology, being particularly fascinated by the evolutionary processes driving biodiversity diversification.",
-		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+		"bio1": "My name is Waldir M. Berbel-Filho and thanks for visiting my website. I have a broad interest in evolutionary biology, being particularly fascinated by the evolutionary processes driving biodiversity diversification.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+		"bio2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh.",
+		"bio3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh.",
 		"email": "waldirmbf@gmail.com",
 		"phone": "405-384-0442",
 		"address": {
@@ -81,7 +81,7 @@
 				"link": "https://google.com"
 			},
 			{
-				"authors": "Preprint:​ Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S.",
+				"authors": "Preprint: Berbel-Filho WM, Tatarenkov A, Pacheco G, Espírito-Santo HMV, Lira MG, de Leaniz CG, Avise JC, Lima SMQ, Rodríguez-López C, Consuegra S.",
 				"title": "Additive and non-additive epigenetic signatures of hybridisation between fish species with different mating systems.",
 				"paper": "BioRkiv",
 				"link": "https://google.com"
@@ -213,26 +213,22 @@
 			{
 				"title": "I love my little fish",
 				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper.",
-				"image": "1.png",
-				"url": "https://www.canadianwanderlust.com"
+				"image": "1.png"
 			},
 			{
 				"title": "Nature is everything to me",
 				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus.",
-				"image": "2.png",
-				"url": "http://www.timbakerdev.com"
+				"image": "2.png"
 			},
 			{
 				"title": "My wife made this website and she is awesome",
 				"description": "Etiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. Suspendisse potenti. In hac habitasse platea dictumst. Nulla varius luctus nibh non volutpat. Donec laoreet tincidunt ipsum bibendum efficitur.\nPraesent dolor nisl, luctus quis fermentum ut, accumsan sit amet metus. Nulla hendrerit convallis nibh vitae iaculis. Nulla ornare urna in interdum condimentum. Nam porttitor ipsum commodo, iaculis leo sit amet, aliquet justo. Nullam sed aliquet urna, in molestie sem. Sed eget consectetur risus. Praesent eu augue lorem. Vestibulum interdum tincidunt erat at dignissim. Etiam dapibus lacinia blandit. Ut accumsan rhoncus suscipit. Integer leo ipsum, sagittis ac semper quis, finibus eu nisl. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eget faucibus nibh, iaculis tempor mi. Nullam lacinia, nisl et pharetra lobortis, purus sapien consequat nibh, vitae pharetra nibh tellus quis metus.",
-				"image": "3.png",
-				"url": "http://www.timbakerdev.com/originalthaifood.github.io"
+				"image": "3.png"
 			},
 			{
 				"title": "Damn right I will be a professor",
 				"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi bibendum quis diam at faucibus. Aenean nec ligula vel ligula cursus facilisis id sed nibh. Suspendisse ultrices quam dapibus, hendrerit lacus ac, feugiat enim. Suspendisse vestibulum tincidunt viverra. Donec non neque mauris. Praesent mauris eros, semper et facilisis vel, hendrerit a libero. Duis gravida nec metus ut dictum. In sagittis egestas fringilla. Nam ultricies sapien nisi, ac vehicula nunc sodales ac. Quisque feugiat enim eget elit ullamcorper, vitae consectetur lorem faucibus. Quisque cursus sed nisl sodales ornare. Cras eleifend ac dui a semper. Sed a tortor a libero vulputate lobortis.\nEtiam congue ornare eros, a elementum est interdum vel. Vivamus condimentum, erat vitae tempor dapibus, erat magna aliquet dolor, vitae egestas nunc dui ac felis. Maecenas mattis luctus turpis, non viverra neque gravida id. Praesent ut dictum mauris. Etiam in pretium urna, at viverra arcu. Proin cursus vehicula nisi quis sagittis. Nullam eget porttitor est. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas mollis diam et ultricies tincidunt. ",
-				"image": "4.png",
-				"url": "http://www.timbakerdev.com"
+				"image": "4.png"
 			}
 		]
 	},

@@ -9,9 +9,9 @@ class Contact extends Component {
 			var city = this.props.data.address.city;
 			var state = this.props.data.address.state;
 			var zip = this.props.data.address.zip;
+			var complement = this.props.data.address.complement;
 			var phone = this.props.data.phone;
 			var email = this.props.data.email;
-			var message = this.props.data.contactmessage;
 		}
 
 		return (
@@ -22,6 +22,7 @@ class Contact extends Component {
 					<p className="address">
 						<span>{name}</span><br />
 						<span>{street}<br />
+							{complement}<br />
 							{city} {state}, {zip}
 						</span><br />
 						<span>{phone}</span><br />
