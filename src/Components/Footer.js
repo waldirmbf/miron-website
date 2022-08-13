@@ -15,12 +15,6 @@ class Footer extends Component {
 									<Icon icon="academicons:google-scholar-square" />
 								</a>
 							</li>
-							<li key="Twitter">
-								<a href="http://twitter.com/BerbelFilho">
-									<Icon icon="akar-icons:twitter-fill" />
-
-								</a>
-							</li>
 							<li key="ResearchGate" >
 								<a href="https://www.researchgate.net/profile/Waldir-Berbel-Filho">
 									<Icon icon="simple-icons:researchgate" />
@@ -39,6 +33,16 @@ class Footer extends Component {
 							<li key="OrcID">
 								<a href="https://orcid.org/0000-0001-6991-4685">
 									<Icon icon="academicons:orcid" />
+								</a>
+							</li>
+							<li key="Twitter">
+								<a href="http://twitter.com/BerbelFilho">
+									<Icon icon="akar-icons:twitter-fill" />
+								</a>
+							</li>
+							<li key="Email">
+								<a href="mailto:waldirmbf@gmail.com">
+									<Icon icon="carbon:email" />
 								</a>
 							</li>
 						</ul>
