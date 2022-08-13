@@ -9,6 +9,7 @@ class About extends Component {
 			var bio1 = this.props.data.bio1;
 			var bio2 = this.props.data.bio2;
 			var bio3 = this.props.data.bio3;
+			var bio4 = this.props.data.bio4;
 			var street = this.props.data.address.street;
 			var city = this.props.data.address.city;
 			var state = this.props.data.address.state;
@@ -30,6 +31,7 @@ class About extends Component {
 						<p>{bio1}</p>
 						<p>{bio2}</p>
 						<p>{bio3}</p>
+						<p>{bio4}</p>
 						<div className="row">
 							<div className="download">
 								<p>

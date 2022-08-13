@@ -1,16 +1,12 @@
 import React, { Component } from 'react';
+import { Icon } from '@iconify/react';
+
 
 class Header extends Component {
 	render() {
 
 		if (this.props.data) {
 			var name = this.props.data.name;
-			var occupation = this.props.data.occupation;
-			var description = this.props.data.description;
-			var city = this.props.data.address.city;
-			var networks = this.props.data.social.map(function (network) {
-				return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
-			})
 		}
 
 		return (
@@ -38,7 +34,37 @@ class Header extends Component {
 						<h3>My name is {name} and I'm excited to welcome you to my website!</h3>
 						<hr />
 						<ul className="social">
-							{networks}
+							<li key="Google Scholar">
+								<a href="https://scholar.google.com/citations?user=30a5mKUAAAAJ&hl=en&oi=sra">
+									<Icon icon="academicons:google-scholar-square" />
+								</a>
+							</li>
+							<li key="Twitter">
+								<a href="http://twitter.com/BerbelFilho">
+									<Icon icon="akar-icons:twitter-fill" />
+
+								</a>
+							</li>
+							<li key="ResearchGate" >
+								<a href="https://www.researchgate.net/profile/Waldir-Berbel-Filho">
+									<Icon icon="simple-icons:researchgate" />
+								</a>
+							</li>
+							<li key="Publons">
+								<a href="https://publons.com/wos-op/researcher/1417914/waldir-m-berbel-filho">
+									<Icon icon="academicons:publons-square" />
+								</a>
+							</li>
+							<li key="GitHub">
+								<a href="http://github.com/waldirmbf">
+									<Icon icon="akar-icons:github-fill" />
+								</a>
+							</li>
+							<li key="OrcID">
+								<a href="https://orcid.org/0000-0001-6991-4685">
+									<Icon icon="academicons:orcid" />
+								</a>
+							</li>
 						</ul>
 					</div>
 				</div>
