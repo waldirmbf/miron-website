@@ -4,18 +4,7 @@ class About extends Component {
 	render() {
 
 		if (this.props.data) {
-			var name = this.props.data.name;
 			var profilepic = "images/" + this.props.data.image;
-			var bio1 = this.props.data.bio1;
-			var bio2 = this.props.data.bio2;
-			var bio3 = this.props.data.bio3;
-			var bio4 = this.props.data.bio4;
-			var street = this.props.data.address.street;
-			var city = this.props.data.address.city;
-			var state = this.props.data.address.state;
-			var zip = this.props.data.address.zip;
-			var phone = this.props.data.phone;
-			var email = this.props.data.email;
 			var resumeDownload = this.props.data.resumedownload;
 		}
 
@@ -28,10 +17,17 @@ class About extends Component {
 					<div className="about-text">
 						<h2>About Me</h2>
 
-						<p>{bio1}</p>
-						<p>{bio2}</p>
-						<p>{bio3}</p>
-						<p>{bio4}</p>
+						<p>Thanks for visiting my website! I have a broad interest in evolutionary biology, being particularly fascinated by the mechanisms
+							and processes leading to biodiversity diversification.</p>
+						<p>Currently, I am postdoctoral researcher at the <a href="https://www.ou.edu/cas/biology">Biology Department from the University of
+							Oklahoma</a>, being mentoring by <a href="https://ingoschlupp.com/">Dr. Ingo Schlupp</a>.</p>
+						<p>Growing up in a Tropical city in Brazil, I had the privilege to spend most of my childhood snorkeling and fishing in coral reefs.
+							Ever since, <b>🐟🐠 fishes 🐡🦈 control my mind</b>! It was a inevitable move to me to become a fish evolutionary biologist, with particular interst to understand how
+							fish came to be the amazing creatures they are!
+							See <a className="smoothscroll" href="#research">Research</a> for more details on the topics I am interested on!</p>
+						<p>On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes and creeks sounds good to me!
+							I like diving, swimming, or just relaxing by the water. I am also a football/soccer fan and a frustrated table tennis player!</p>
+
 						<div className="row">
 							<div className="download">
 								<p>

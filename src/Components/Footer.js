@@ -48,7 +48,9 @@ class Footer extends Component {
 						</ul>
 
 						<ul className="copyright">
-							<li>&copy; Copyright 2022   -   Waldir M. Berbel-Filho</li>
+							<li>&copy; Copyright 2022</li>
+							<li>Waldir M. Berbel-Filho</li>
+							<li>Last Updated: 8/14/2022</li>
 						</ul>
 
 					</div>
