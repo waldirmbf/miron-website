@@ -22,7 +22,7 @@ class About extends Component {
 						<p>Currently, I am postdoctoral researcher at the <a href="https://www.ou.edu/cas/biology">Biology Department from the University of
 							Oklahoma</a>, being mentoring by <a href="https://ingoschlupp.com/">Dr. Ingo Schlupp</a>.</p>
 						<p>Growing up in a Tropical city in Brazil, I had the privilege to spend most of my childhood snorkeling and fishing in coral reefs.
-							Ever since, <b>🐟🐠 fishes 🐡🦈 control my mind</b>! It was a inevitable move to me to become a fish evolutionary biologist, with particular interst to understand how
+							Ever since, <b>🐟🐠 fishes 🐡🦈 control my mind</b>! It was a inevitable move to me to become a fish evolutionary biologist, with particular interest on understanding how
 							fish came to be the amazing creatures they are!
 							See <a className="smoothscroll" href="#research">Research</a> for more details on the topics I am interested on!</p>
 						<p>On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes and creeks sounds good to me!
