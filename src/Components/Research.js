@@ -15,17 +15,17 @@ class Research extends Component {
 							<div key="The sex(y) life of fishes">
 								<img alt="The sex(y) life of fishes" src="images/research/1.png" />
 								<h2>The sex(y) life of fishes</h2>
-								<p>Reproduction is the ultimate goal of biological entities. One of my main interests is to understand the factors leading to the diversity of
-									reproductive and mating systems/strategies, as well as the evolutionary consequences of those once they evolved. For that,
-									I have been focusing my research on organisms with <b>unusual</b> reproductive systems.</p>
+								<p>Reproduction is the <b>ultimate goal</b> of biological entities. One of my main interests is to understand the factors leading to the diversity of
+									reproductive and mating systems/strategies we see in nature, as well as the evolutionary consequences of those once they evolved. For that,
+									I have been focusing my research on organisms with <b>'unusual'</b> reproductive systems.</p>
 
 
-								<p>One line of my work has been using the unique genus killifish genus <b><i>Kryptolebias</i></b> to understand the causes and consequences of
-									the evolution of self-fertilization (selfing) in animals. <i>Kryptolebias</i> provides an exceptional opportunity to understand why, when,
-									and how and when selfing evolved, as well its ecological, phenotypic, and implications.
+								<p>Most of my work has been using the unique genus killifish genus <b><i>Kryptolebias</i></b> to understand the causes and consequences of
+									the evolution of self-fertilization (selfing) in animals. <i>Kryptolebias</i> <b>comprise the known only case of vertebrates capable of selfing</b>, 
+									providing an an exceptional opportunity to ask why, when, and how selfing evolved, as well its ecological, phenotypic, and implications.
 								</p>
 
-								<p>How and why asexuality emerges (and it is maintained) from sexual ancestors is still an intriguing question. All asexual vertebrates have a
+								<p>How and why asexuality emerges from sexual ancestors is still an intriguing question. All asexual vertebrates have a
 									hybrid origin. My postdoctoral research investigates the links between <b> hybridization and asexuality</b> in the Amazon Molly (<i>P. formosa</i>)
 									system. We are currently using a combination of cell biology methods (to investigate deviations from meiosis), quantitative
 									genetic analysis (QTL) from whole-genome sequencing data, phenotypic and experimental data aiming to understand how asexuality emerged
