@@ -10,7 +10,7 @@ class Publications extends Component {
 
 				const textArray = otherPublication.authors.split("Berbel-Filho WM");
 				return <li>
-					<div key={otherPublication.authors}>
+					<div className="pub" key={otherPublication.authors}>
 						<span>
 							{textArray.map((item, index) => (
 								<>
@@ -21,7 +21,7 @@ class Publications extends Component {
 								</>
 							))}
 						</span>
-						<a href={otherPublication.link}>{otherPublication.title}</a>
+						<a href={otherPublication.link}>{otherPublication.title} </a>
 						<i> {otherPublication.paper}</i>
 					</div></li>
 			})
@@ -33,7 +33,7 @@ class Publications extends Component {
 
 				if (publication.extraInformation != null) {
 					extraInfos = publication.extraInformation.map(function (extraInfo) {
-						return <div className="extraInfo" key={extraInfo.link}><a href={extraInfo.link}>{extraInfo.information}</a></div>
+						return <div className="extraInfo" key={extraInfo.link}><a href={extraInfo.link} target="_blank">{extraInfo.information}</a></div>
 					})
 				}
 
@@ -49,7 +49,7 @@ class Publications extends Component {
 								</>
 							))}
 						</span>
-						<a href={publication.link}>{publication.title}</a>
+						<a href={publication.link} target="_blank">{publication.title}</a>
 						<i> {publication.paper}</i>
 						<div className="extraInfoPanel">
 							{extraInfos}

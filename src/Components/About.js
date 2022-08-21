@@ -19,8 +19,8 @@ class About extends Component {
 
 						<p>Thanks for visiting my website! I have a broad interest in evolutionary biology, being particularly fascinated by the mechanisms
 							and processes leading to biodiversity diversification.</p>
-						<p>Currently, I am postdoctoral researcher at the <a href="https://www.ou.edu/cas/biology">Biology Department from the University of
-							Oklahoma</a>, being mentoring by <a href="https://ingoschlupp.com/">Dr. Ingo Schlupp</a>.</p>
+						<p>Currently, I am postdoctoral researcher at the <a href="https://www.ou.edu/cas/biology" target="_blank">Biology Department from the University of
+							Oklahoma</a>, being mentoring by <a href="https://ingoschlupp.com/" target="_blank">Dr. Ingo Schlupp</a>.</p>
 						<p>Growing up in a Tropical city in Brazil, I had the privilege to spend most of my childhood snorkeling and fishing in coral reefs.
 							Ever since, <b>🐟🐠 fishes 🐡🦈 control my mind</b>! It was a inevitable move to me to become a fish evolutionary biologist, with particular interest on understanding how
 							fish came to be the amazing creatures they are!
