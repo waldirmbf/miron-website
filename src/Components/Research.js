@@ -32,7 +32,7 @@ class Research extends Component {
 									on this system.</p>
 								<p>Finally, I recently developed an interest in understading how variation in gamete cells (sperm in particular), can contribute to population/species
 									differentiation. Taking advantage of the many livebearer species
-									available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/">International Stock Center for Livebearing Fishes</a>,
+									available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/" target="_blank">International Stock Center for Livebearing Fishes</a>,
 									we are testing several hypotheses regarding the effects of different environmental stressors and reproductive parameters on sperm variation
 									across different poecillid species. </p>
 
@@ -41,7 +41,7 @@ class Research extends Component {
 						</div>
 						<div className="research-content">
 							<div key="Phylogenetics, population genetics, and hybridization">
-								<img alt="Phylogenetics, population genetics, and hybridization" src="images/research/2.png" />
+								<img alt="Phylogenetics, population genetics, and hybridization" src="images/research/Cichla.jpg" />
 								<h2>Phylogenetics, population genetics, and hybridization</h2>
 								<p>Another area of my research revolves under the overlap between phylogenetics (the study of the relationships among species), population genetics (the genetic basis of the differentiation between populations), and the influence of hybridization and introgression have on species relationships and evolution.</p>
 
@@ -50,7 +50,7 @@ class Research extends Component {
 						</div>
 						<div className="research-content">
 							<div key="Plasticity in clonal organisms">
-								<img alt="Plasticity in clonal organisms" src="images/research/3.png" />
+								<img alt="Plasticity in clonal organisms" src="images/research/Krypto.jpg" />
 								<h2>Plasticity in clonal organisms</h2>
 								<p>Given the often-clonal nature of the organisms I have been working with, I have the opportunity to ask and experimentally test questions regarding the mechanistic basis of phenotypic plasticity, both within and between generations.
 									I have been using both <i>Kryptolebias</i> and <i>P. formosa</i> to investigate several questions related to sources of epigenetic variation.
@@ -60,7 +60,7 @@ class Research extends Component {
 						</div>
 						<div className="research-content">
 							<div key="Development of epigenetics markers">
-								<img alt="Development of epigenetics markers" src="images/research/4.png" />
+								<img alt="Development of epigenetics markers" src="images/research/Anableps.jpeg" />
 								<h2>Development of epigenetics markers</h2>
 								<p>The identification of the degree autonomy between genomic and DNA methylation has the potential for identifying epigenetic markers which are exclusively environmentally-induced.
 									Epigenetic markers are applicable to a wide range of fields, and can be used to indirectly (and sometimes non-invasively) infer the environmental state of a particular sample based on the methylation status of its epigenetic marker.

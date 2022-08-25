@@ -10,6 +10,7 @@ class About extends Component {
 
 		return (
 			<section id="about">
+				
 				<div className="about">
 					<div className="about-image">
 						<img className="profile-pic" src={profilepic} alt="Waldir Miron Berbel Filho" />
@@ -28,14 +29,14 @@ class About extends Component {
 						<p>On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes and creeks sounds good to me!
 							I like diving, swimming, or just relaxing by the water. I am also a football/soccer fan and a frustrated table tennis player!</p>
 
-						<div className="row">
+						{/* <div className="row">
 							<div className="download">
 								<p>
 									<a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
 								</p>
 							</div>
-						</div>
-					</div>
+		</div>*/}
+					</div> 
 				</div>
 
 			</section>

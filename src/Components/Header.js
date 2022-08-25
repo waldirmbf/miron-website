@@ -24,6 +24,7 @@ class Header extends Component {
 						<li><a className="smoothscroll" href="#research">Research</a></li>
 						<li><a className="smoothscroll" href="#publications">Publications</a></li>
 						<li><a className="smoothscroll" href="#contact">Contact</a></li>
+						<li><a  href="https://photos.app.goo.gl/Ns4oDwMnq9Kyaaao7" target="_blank">Gallery</a></li>
 					</ul>
 
 				</nav>
