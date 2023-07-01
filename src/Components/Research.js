@@ -60,8 +60,8 @@ class Research extends Component {
 						</div>
 						<div className="research-content">
 							<div key="Development of epigenetics biomarkers">
-								<img alt="Development of epigenetics biomarkers" src="images/research/Anableps.jpeg" />
-								<h2>Development of epigenetics markers</h2>
+								<img alt="Development of epigenetic biomarkers" src="images/research/Anableps.jpeg" />
+								<h2>Development of epigenetic markers</h2>
 								<p>The identification of the degree autonomy between genomic and DNA methylation has the potential for identifying epigenetic biomarkers which are exclusively environmentally-induced.
 									Epigenetic biomarkers are applicable to a wide range of fields, and can be used to indirectly (and sometimes non-invasively) infer the environmental state of a particular sample based on the methylation status of its epigenetic biomarkers.
 									Taking advantage of the clonal nature of both <i>Kryptolebias</i> and <i>P. formosa</i> and its multiple clonal lineages, I am interested to develop epigenetic (DNA methylation) biomarkers, particularly in relation to pollution levels within the range found in natural populations.

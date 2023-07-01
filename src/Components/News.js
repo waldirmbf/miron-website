@@ -9,6 +9,22 @@ class News extends Component {
 					<div className="row">
 						<h1>News</h1>
 						<div>
+							<p className="date"> June 21-25, 2023</p>
+							<p className="title"> Schlupp lab goes to Albuquerque for Evolution 2023. </p>
+							<p className="content"> We had a great time at Evolution 2023 in Albuquerque. I presented a poster on sperm evolution in poecillids, and received great feedback! I am currently applying for funds to collect more sperm data from other poeciliid species. Please, get in contact in case you have some poecillids in your lab.</p>
+							<img alt="The sex(y) life of fishes" src="images/SchluppLab_Evo2023.jpeg" />
+							<hr />
+							</div>
+						<div>
+							<p className="date"> March 06th, 2023</p>
+							<p className="title"> Fourth episode of book club on "The evolution of Beauty" available on Youtube! </p>
+							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its fourth <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> video </a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of the amazing bowers by bowerbids as well as the evolution of lekking in manakins.</p>
+							<p>
+							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu quarto <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> vídeo </a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
+							 Desta vez discutimos as arenas sexuais feitos pelos bowerbirds, assim como a evolução dos lekkings em tangarás. </p>
+							<hr />
+						</div>
+						<div>
 							<p className="date"> January 23rd, 2023</p>
 							<p className="title"> Sperm-mediated paternal efffects project granted by OCAST! </p>
 							<p className="content"> Good news!!! We will be funded by <a href="https://oklahoma.gov/ocast/about-ocast.html" target="_blank">OCAST</a> to study the sperm-mediated paternal effects in poeciliids! More on that soon.</p>
@@ -23,7 +39,7 @@ class News extends Component {
 							 Desta vez discutimos o conceito de decadência evolutiva por escolha de parceiros, assim como o conflito sexual em aves aquáticas atavés da co-evolução da genitália. </p>
 							<hr />
 						</div>
-						<div>
+						{/* <div>
 							<p className="date"> September 23rd, 2022</p>
 							<p className="title"> Sperm-mediated paternal effects project submitted to OCAST. </p>
 							<p className="content"> We are still looking for funding for our project on sperm-mediated paternal effects. We now submitted a proposal to <a href="https://oklahoma.gov/ocast/about-ocast.html" target="_blank">OCAST</a>. Fingers crossed!</p> 
@@ -52,7 +68,7 @@ class News extends Component {
 							<p className="content"><i>Kryptolebias</i> phylogenomics, introgression and mito-nuclear discordances is now published. Open-access for 50 days using this <a href="https://authors.elsevier.com/a/1fgIM3m3nN6Qc1" target="_blank">link</a>. As always, feel free to reach out to discuss this study.</p>
 							<hr />
 						</div>
-						{/*<div>
+						<div>
 							<p className="date"> August 21st, 2022</p>
 							<p className="title">Welcome to my new website!</p>
 							<p className="content"> I am excited to launch my new webiste! More improvements to come (working now on a photo gallery). My previous <a href="https://berbelfilho.wixsite.com/home" target="_blank">website</a> will be discontinued soon.</p>
@@ -69,7 +85,7 @@ class News extends Component {
 							<p className="title">New paper accepted at Epigenetics!</p>
 							<p className="content">Our work on the DNA methylation patterns of parental <i>Kryptolebias</i> and their hybrid is now accepted at <a href="https://www.tandfonline.com/journals/kepi20" target="_blank">Epigenetics</a>. More soon!</p> 
 							<hr />
-						</div> */}
+						</div>  */}
 					</div>
 				</div>
 			</section >
