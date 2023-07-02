@@ -30,19 +30,18 @@ class Research extends Component {
 									system. We are currently using a combination of cell biology methods (e.g., to investigate deviations from meiosis), quantitative
 									genetic analysis (QTL) from whole-genome sequencing data, phenotypic, and experimental data aiming to understand how asexuality emerged
 									on this system.</p>
-								<p>Finally, I recently developed an interest in understanding how variation in gamete cells (sperm in particular), can contribute to population/species
-									divergence. Taking advantage of the many livebearer species
-									available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/" target="_blank"> The International Stock Center for Livebearing Fishes</a>,
-									we are testing several hypotheses regarding the effects of different environmental stressors and reproductive parameters on sperm variation
-									across different poeciliid species. </p>
-
-
+							<div key="Sperm biology, sexual conflict and paternal effects">
+								<img alt="Sperm biology, sexual conflict and paternal effects" src="images/research/Sperm2.png" />
+								<h2>Sperm biology, sexual conflict and paternal effects</h2>
+								<p> Sexual conflicts emerge when different sexes have opposing evolutionary interests. I am also interested on the dynamics of sexual conflict, in particular how and why organisms  show different levels of their investment in gamete traits (e.g., size, morphology, viability).</p>
+								<p> Given my natural interst in epigenetics, I also investigate what type of non-genetic information can be passed through the gametes to the next generation. Taking advantage of the many livebearer species available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/" target="_blank"> The International Stock Center for Livebearing Fishes</a>,
+									we are testing several hypotheses regarding the effects of different environmental stressors and reproductive parameters on sperm variation across different poeciliid species.</p>.
 							</div>
 						</div>
 						<div className="research-content">
-							<div key="Phylogenetics, population genetics, and hybridization">
-								<img alt="Phylogenetics, population genetics, and hybridization" src="images/research/Cichla.jpg" />
-								<h2>Phylogenetics, population genetics, and hybridization</h2>
+							<div key="Phylogenetics, systematics, population genetics, and introgression">
+								<img alt="Phylogenetics, systematics, population genetics, and introgression" src="images/research/Cichla.jpg" />
+								<h2>Phylogenetics, systematics, population genetics, and everything in between </h2>
 								<p>Another area of my research revolves around the overlap between phylogenetics (the study of the relationships among species), population genetics (the genetic basis of the differentiation between populations), and the influence of hybridization and introgression have on species relationships and evolution.</p>
 
 								<p>Again,  <i> Kryptolebias</i> provides a fertile ground for this field. My research has revealed extensive hybridization in the genus. Remarkably, many of the introgression events involved the highly-selfing species <i> K. hermaphroditus</i>. I am currently studying how potential anthropogenic factors (e.g., pollution) may have influenced the extent of those hybridizations across natural populations in Brazil, as well as testing how differences in mating systems can affect the likelihood of hybridization and introgression. </p>
@@ -68,6 +67,7 @@ class Research extends Component {
 									This research holds the potential to provide practical molecular tools that can be used to assess different environmental stressors based on the methylation status of candidate genomic regions. </p>
 							</div>
 						</div>
+					</div>
 					</div>
 				</div>
 			</section>
