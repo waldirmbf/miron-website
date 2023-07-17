@@ -9,6 +9,13 @@ class News extends Component {
 					<div className="row">
 						<h1>News</h1>
 						<div>
+							<p className="date"> July 17 2023</p>
+							<p className="title"> Two pieces of good news! </p>
+							<p className="content"> Two pieces of good news at once! First, our study (lead by Dr. Frederic Fyon) on the emergence of asexuality via selection in a hybrid context was accepted in Evolution. More on that soon!</p>
+							<p className="content"> Also, I was awarded a small-research grant by <a href="https://fsbi.org.uk/" target="_blank">FSBI</a> to study poecillds reproductive traits in Brazil!!! Exciting fieldwork and data to come!</p>
+							<hr />
+							</div>
+						<div>
 							<p className="date"> June 21-25, 2023</p>
 							<p className="title"> Schlupp lab goes to Albuquerque for Evolution 2023. </p>
 							<p className="content"> We had a great time at Evolution 2023 in Albuquerque. I presented a poster on sperm evolution in poecillids, and received great feedback! I am currently applying for funds to collect more sperm data from other poeciliid species. Please, get in contact in case you have some poecillids in your lab.</p>
