@@ -11,7 +11,7 @@ class News extends Component {
 						<div>
 							<p className="date"> July 17 2023</p>
 							<p className="title"> Two pieces of good news! </p>
-							<p className="content"> Two pieces of good news at once! First, our study (lead by Dr. Frederic Fyon) on the emergence of asexuality via selection in a hybrid context was accepted in Evolution. More on that soon!</p>
+							<p className="content"> Two pieces of good news at once! First, <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank">our study</a> (led by <a href="https://fredericfyon.github.io/Home/" target="_blank">Dr. Frédéric Fyon</a>) on the emergence of asexuality via selection in a hybrid context was accepted in Evolution. More on that soon!</p>
 							<p className="content"> Also, I was awarded a small-research grant by <a href="https://fsbi.org.uk/" target="_blank">FSBI</a> to study poecillds reproductive traits in Brazil!!! Exciting fieldwork and data to come!</p>
 							<hr />
 							</div>
@@ -25,9 +25,9 @@ class News extends Component {
 						<div>
 							<p className="date"> March 06th, 2023</p>
 							<p className="title"> Fourth episode of book club on "The evolution of Beauty" available on Youtube! </p>
-							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its fourth <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> video </a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of the amazing bowers by bowerbids as well as the evolution of lekking in manakins.</p>
-							<p>
-							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu quarto <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> vídeo </a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
+							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its fourth <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> video</a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of the amazing bowers by bowerbids as well as the evolution of lekking in manakins.</p>
+							<p className="content">
+							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu quarto <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> vídeo</a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
 							 Desta vez discutimos as arenas sexuais feitos pelos bowerbirds, assim como a evolução dos lekkings em tangarás. </p>
 							<hr />
 						</div>
@@ -40,9 +40,9 @@ class News extends Component {
 						<div>
 							<p className="date"> September 26th, 2022</p>
 							<p className="title"> Third episode of book club on "The evolution of Beauty" available on Youtube. </p>
-							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its third <a href="https://www.youtube.com/watch?v=n5Eq9hnm4o4" target="_blank"> video </a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of evolutionary decandence via mate choice as well as sexual conflict in waterfowl via genitalia coevolution.</p>
-							<p>
-							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu terceiro <a href="https://www.youtube.com/watch?v=n5Eq9hnm4o4" target="_blank"> vídeo </a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
+							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its third <a href="https://www.youtube.com/watch?v=n5Eq9hnm4o4" target="_blank"> video</a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of evolutionary decandence via mate choice as well as sexual conflict in waterfowl via genitalia coevolution.</p>
+							<p className="content">
+							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu terceiro <a href="https://www.youtube.com/watch?v=n5Eq9hnm4o4" target="_blank"> vídeo</a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
 							 Desta vez discutimos o conceito de decadência evolutiva por escolha de parceiros, assim como o conflito sexual em aves aquáticas atavés da co-evolução da genitália. </p>
 							<hr />
 						</div>
@@ -55,7 +55,7 @@ class News extends Component {
 						<div>
 							<p className="date"> September 14th, 2022</p>
 							<p className="title"> Second episode of book club on "The evolution of Beauty" available on Youtube. </p>
-							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its second <a href="https://www.youtube.com/watch?v=-_MyfV2YDZQ" target="_blank"> video </a> discussing the book "The Evolution of Beauty" by Richard Prum.
+							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its second <a href="https://www.youtube.com/watch?v=-_MyfV2YDZQ" target="_blank"> video</a> discussing the book "The Evolution of Beauty" by Richard Prum.
 							 This is a project in collaboration with my colleague <a href="https://g-pacheco.github.io/" target="_blank">George Pacheco</a> aiming to discuss and popularize science books, particularly in Evoltuionary Biology, that are yet to be translated into Portuguese. This project aims to encourage both readership and translation of important books in the field for a Portuguese-speaking audience (particularly Brazilian students). </p>
 							 
 							 <p>
