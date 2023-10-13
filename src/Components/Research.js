@@ -18,25 +18,25 @@ class Research extends Component {
 								<p>Reproduction is the <b>ultimate goal</b> of biological entities. One of my main interests is to understand the factors leading to the diversity of
 									reproductive and mating systems/strategies we see in nature, as well as the evolutionary consequences of those once they evolved. For that,
 									I have been focusing my research on organisms with <b>'unusual'</b> reproductive systems.</p>
-
-
 								<p>Most of my work has been using the unique genus killifish genus <b><i>Kryptolebias</i></b> to understand the causes and consequences of
 									the evolution of self-fertilization (selfing) in animals. <i>Kryptolebias</i> <b>comprise the known only case of vertebrates capable of selfing</b>, 
 									providing an exceptional opportunity to ask why, when, and how selfing evolved, as well its ecological, phenotypic, and evolutionary implications.
 								</p>
-
+								<hr />
 								<p>How and why asexuality emerges from sexual ancestors is still an intriguing question. Most asexual vertebrates have a
 									hybrid origin. My postdoctoral research investigates the links between <b> hybridization and asexuality</b> in the Amazon Molly (<i>P. formosa</i>)
 									system. We are currently using a combination of cell biology methods (e.g., to investigate deviations from meiosis), quantitative
 									genetic analysis (QTL) from whole-genome sequencing data, phenotypic, and experimental data aiming to understand how asexuality emerged
 									on this system.</p>
+									<hr />
 							<div key="Sperm biology, sexual conflict, and paternal effects">
 								<img alt="Sperm biology, sexual conflict, and paternal effects" src="images/research/SpermCropped.jpg" />
 								<h2>Sperm biology, sexual conflict, and paternal effects</h2>
-								<p> Sexual conflicts emerge when different sexes have opposing evolutionary interests. I am also interested on the dynamics of sexual conflict, in particular how and why organisms  show different levels of their investment in gamete traits (e.g., size, morphology, viability).</p>
+								<p> Sexual conflicts emerge when different sexes have opposing evolutionary interests. I am also interested on the dynamics of sexual conflict, in particular how and why organisms show different levels of their investment in gamete traits (e.g., size, morphology, viability).</p>
 								<p> Given my natural interst in epigenetics, I also investigate what type of non-genetic information can be passed through the gametes to the next generation. Taking advantage of the many livebearer species available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/" target="_blank"> The International Stock Center for Livebearing Fishes</a>,
 									we are testing several hypotheses regarding the effects of different environmental stressors and reproductive parameters on sperm variation across different poeciliid species.</p>.
 							</div>
+							<hr />
 						</div>
 						<div className="research-content">
 							<div key="Phylogenetics, systematics, population genetics, and introgression">
@@ -46,6 +46,7 @@ class Research extends Component {
 
 								<p>Again,  <i> Kryptolebias</i> provides a fertile ground for this field. My research has revealed extensive hybridization in the genus. Remarkably, many of the introgression events involved the highly-selfing species <i> K. hermaphroditus</i>. I am currently studying how potential anthropogenic factors (e.g., pollution) may have influenced the extent of those hybridizations across natural populations in Brazil, as well as testing how differences in mating systems can affect the likelihood of hybridization and introgression. </p>
 							</div>
+							<hr />
 						</div>
 						<div className="research-content">
 							<div key="Plasticity in clonal organisms">
@@ -56,6 +57,7 @@ class Research extends Component {
 									I am particularly interested in evaluating the degree of autonomy of DNA methylation variation from its genomic background.
 									I am also interested in the extent of heritability of epigenetic variation, particularly how gamete-transmitted epialleles can underlie parental effects.</p>
 							</div>
+							<hr />
 						</div>
 						<div className="research-content">
 							<div key="Development of epigenetics biomarkers">
@@ -66,6 +68,7 @@ class Research extends Component {
 									Taking advantage of the clonal nature of both <i>Kryptolebias</i> and <i>P. formosa</i> and its multiple clonal lineages, I am interested to develop epigenetic (DNA methylation) biomarkers, particularly in relation to pollution levels within the range found in natural populations.
 									This research holds the potential to provide practical molecular tools that can be used to assess different environmental stressors based on the methylation status of candidate genomic regions. </p>
 							</div>
+							<hr />
 						</div>
 					</div>
 					</div>

@@ -9,10 +9,18 @@ class News extends Component {
 					<div className="row">
 						<h1>News</h1>
 						<div>
-							<p className="date"> July 17 2023</p>
+							<p className="date"> October 13th 2023</p>
+							<p className="title"> Two papers out in September! </p>
+							<p className="content"> In vetebrates, asexuality it is often linked to hybridization. Our <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank"> new paper in Evolution</a> shows that asexuality can emerge and be selectively maintained in a hybrid context. This represents alternative explanation for currentl asexual systems where there is  evidence for early sexual reproduction during before transitioning into asexuliaty.</p>
+							<p className="content">  Our second paper,<a href="https://doi.org/10.1002/ece3.10538" target="_blank">  now published at Ecology and Evolution</a> investigates the effects of parental mutational load on the genome ancestry of hybrids between selfing and outcrossing species.Our main findings show that the mutational load of the hybrids will be mostly affected by the recombination and mutation rates of their parents, regardless of its own mating system (i.e. if self-fertilizes or outcrosses).</p>
+							<img alt="" src="images/Fyon&BerbelFilho.jpg"/>
+							<hr />
+							</div>
+						<div>
+							<p className="date"> July 17th 2023</p>
 							<p className="title"> Two pieces of good news! </p>
 							<p className="content"> Two pieces of good news at once! First, <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank">our study</a> (led by <a href="https://fredericfyon.github.io/Home/" target="_blank">Dr. Frédéric Fyon</a>) on the emergence of asexuality via selection in a hybrid context was accepted in Evolution. More on that soon!</p>
-							<p className="content"> Also, I was awarded a small-research grant by <a href="https://fsbi.org.uk/" target="_blank">FSBI</a> to study poecillds reproductive traits in Brazil!!! Exciting fieldwork and data to come!</p>
+							<p className="content"> Also, I was awarded a small-research grant by <a href="https://fsbi.org.uk/" target="_blank">FSBI</a> to study poecillids sperm biology for species in Brazil!!! Exciting fieldwork and data to come!</p>
 							<hr />
 							</div>
 						<div>
@@ -37,7 +45,7 @@ class News extends Component {
 							<p className="content"> Good news!!! We will be funded by <a href="https://oklahoma.gov/ocast/about-ocast.html" target="_blank">OCAST</a> to study the sperm-mediated paternal effects in poeciliids! More on that soon.</p>
 							<hr />
 						</div>
-						<div>
+						{/*<div>
 							<p className="date"> September 26th, 2022</p>
 							<p className="title"> Third episode of book club on "The evolution of Beauty" available on Youtube. </p>
 							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its third <a href="https://www.youtube.com/watch?v=n5Eq9hnm4o4" target="_blank"> video</a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of evolutionary decandence via mate choice as well as sexual conflict in waterfowl via genitalia coevolution.</p>
@@ -46,7 +54,7 @@ class News extends Component {
 							 Desta vez discutimos o conceito de decadência evolutiva por escolha de parceiros, assim como o conflito sexual em aves aquáticas atavés da co-evolução da genitália. </p>
 							<hr />
 						</div>
-						{/* <div>
+						 <div>
 							<p className="date"> September 23rd, 2022</p>
 							<p className="title"> Sperm-mediated paternal effects project submitted to OCAST. </p>
 							<p className="content"> We are still looking for funding for our project on sperm-mediated paternal effects. We now submitted a proposal to <a href="https://oklahoma.gov/ocast/about-ocast.html" target="_blank">OCAST</a>. Fingers crossed!</p> 
@@ -92,7 +100,7 @@ class News extends Component {
 							<p className="title">New paper accepted at Epigenetics!</p>
 							<p className="content">Our work on the DNA methylation patterns of parental <i>Kryptolebias</i> and their hybrid is now accepted at <a href="https://www.tandfonline.com/journals/kepi20" target="_blank">Epigenetics</a>. More soon!</p> 
 							<hr />
-						</div>  */}
+		</div>*/}
 					</div>
 				</div>
 			</section >
