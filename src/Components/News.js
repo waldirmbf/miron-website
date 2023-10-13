@@ -12,8 +12,8 @@ class News extends Component {
 							<p className="date"> October 13th 2023</p>
 							<p className="title"> Two papers out in September! </p>
 							<p className="content"> In vetebrates, asexuality it is often linked to hybridization. Our <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank"> new paper in Evolution</a> shows that asexuality can emerge and be selectively maintained in a hybrid context. This represents alternative explanation for currentl asexual systems where there is  evidence for early sexual reproduction during before transitioning into asexuliaty.</p>
-							<p className="content">  Our second paper,<a href="https://doi.org/10.1002/ece3.10538" target="_blank">  now published at Ecology and Evolution</a> investigates the effects of parental mutational load on the genome ancestry of hybrids between selfing and outcrossing species.Our main findings show that the mutational load of the hybrids will be mostly affected by the recombination and mutation rates of their parents, regardless of its own mating system (i.e. if self-fertilizes or outcrosses).</p>
-							<img alt="" src="images/Fyon&BerbelFilho.jpg"/>
+							<p className="content">  Our second paper,<a href="https://doi.org/10.1002/ece3.10538" target="_blank">  now published at Ecology and Evolution</a>, investigates the effects of parental mutational load on the genome ancestry of hybrids between selfing and outcrossing species. Our main findings show that the hybrid genome composition will be mostly affected by the recombination and mutation rates of their parents (see below), regardless of its own mating system (i.e. if self-fertilizes or outcrosses).</p>
+							<img alt="Fyon&BerbelFilho_2023_EcoEvol" src="images/Fyon&BerbelFilho.jpg" />
 							<hr />
 							</div>
 						<div>
