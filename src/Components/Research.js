@@ -32,7 +32,7 @@ class Research extends Component {
 							<div key="Sperm biology, sexual conflict, and paternal effects">
 								<img alt="Sperm biology, sexual conflict, and paternal effects" src="images/research/SpermCropped.jpg" />
 								<h2>Sperm biology, sexual conflict, and paternal effects</h2>
-								<p> Sexual conflicts emerge when different sexes have opposing evolutionary interests. I am also interested on the dynamics of sexual conflict, in particular how and why organisms show different levels of their investment in gamete traits (e.g., size, morphology, viability).</p>
+								<p> Sexual conflicts emerge when different sexes have opposing evolutionary interests. I am interested on the dynamics of sexual conflict, in particular how, why, and when organisms show different levels of their investment in gamete traits (e.g., size, morphology, viability).</p>
 								<p> Given my natural interst in epigenetics, I also investigate what type of non-genetic information can be passed through the gametes to the next generation. Taking advantage of the many livebearer species available at <a href="https://international-stock-center-for-livebearing-fishes.oucreate.com/blog/" target="_blank"> The International Stock Center for Livebearing Fishes</a>,
 									we are testing several hypotheses regarding the effects of different environmental stressors and reproductive parameters on sperm variation across different poeciliid species.</p>.
 							</div>

@@ -9,11 +9,10 @@ class News extends Component {
 					<div className="row">
 						<h1>News</h1>
 						<div>
-							<p className="date"> October 13th 2023</p>
-							<p className="title"> Two papers out in September! </p>
-							<p className="content"> In vetebrates, asexuality it is often linked to hybridization. Our <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank"> new paper in Evolution</a> shows that asexuality can emerge and be selectively maintained in a hybrid context. This represents alternative explanation for currentl asexual systems where there is  evidence for early sexual reproduction during before transitioning into asexuliaty.</p>
-							<p className="content">  Our second paper,<a href="https://doi.org/10.1002/ece3.10538" target="_blank">  now published at Ecology and Evolution</a>, investigates the effects of parental mutational load on the genome ancestry of hybrids between selfing and outcrossing species. Our main findings show that the hybrid genome composition will be mostly affected by the recombination and mutation rates of their parents (see below), regardless of its own mating system (i.e. if self-fertilizes or outcrosses).</p>
-							<img alt="Fyon&BerbelFilho_2023_EcoEvol" src="images/Fyon&BerbelFilho.jpg" />
+							<p className="date"> January 19th 2024</p>
+							<p className="title"> Happy New Year! </p>
+							<p className="content"> The last months of 2023 were intense but rewarding. Another successful fieldwork trip in Brazil resulted in a lot of sperm perfomance data for 15 Poeciliidae species, along with research talks and good collaborations. I am excited on what is to come is 2024! </p>
+							<img alt="ParqueDosApardos" src="images/ParqueDosAparados.jpg" />
 							<hr />
 							</div>
 						<div>

@@ -26,7 +26,7 @@ class About extends Component {
 							Ever since, <b>🐟🐠 fishes 🐡🦈 control my mind</b>! It was a inevitable move to me to become a fish evolutionary biologist, with particular interest on understanding how
 							fish came to be the amazing creatures they are!
 							See <a className="smoothscroll" href="#research">Research</a> for more details on the topics I am interested on!</p>
-						<p>On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes and creeks sounds good to me!
+						<p>On more personal notes, I consider myself as an 'aquatic creature'. Anything that surrounds the ocean, rivers, lakes, and creeks sounds good to me!
 							I like diving, swimming, or just relaxing by the water. I am also a football/soccer fan and a frustrated table tennis player!</p>
 
 						{/* <div className="row">
