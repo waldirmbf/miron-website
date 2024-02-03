@@ -12,7 +12,7 @@ class News extends Component {
 							<p className="date"> January 19th 2024</p>
 							<p className="title"> Happy New Year! </p>
 							<p className="content"> The last months of 2023 were intense but rewarding. Another successful fieldwork trip in Brazil resulted in a lot of sperm perfomance data for 15 Poeciliidae species, along with research talks and good collaborations. I am excited on what is to come is 2024! </p>
-							<img alt="ParqueDosApardos" src="images/ParqueDosAparados.jpg" />
+							<img alt="ParqueDosAparados" src="images/ParqueDosAparados.jpg" />
 							<hr />
 							</div>
 						<div>
