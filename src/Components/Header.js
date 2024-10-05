@@ -19,21 +19,21 @@ class Header extends Component {
 
 					<ul id="nav" className="nav">
 						<li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-						<li><a className="smoothscroll" href="#about">About</a></li>
+						<li><a className="smoothscroll" href="#about">People</a></li>
 						<li><a className="smoothscroll" href="#news">News</a></li>
 						<li><a className="smoothscroll" href="#research">Research</a></li>
 						<li><a className="smoothscroll" href="#publications">Publications</a></li>
 						<li><a className="smoothscroll" href="#contact">Contact</a></li>
-						<li><a  href="https://photos.app.goo.gl/Ns4oDwMnq9Kyaaao7" target="_blank">Gallery</a></li>
+						<li><a href="https://photos.app.goo.gl/Ns4oDwMnq9Kyaaao7" target="_blank">Gallery</a></li>
 					</ul>
 
 				</nav>
 
 				<div className="row banner">
 					<div className="banner-text">
-						<h1 className="responsive-headline">Hi there!</h1>
-						<h3>My name is {name} and I'm excited to welcome you to my website!</h3>
-						<hr />
+						{/* <h1 className="responsive-headline">Hi there!</h1>
+						<h3>Welcome to the Miron Lab website!</h3> */}
+						{/* <hr />
 						<ul className="social">
 							<li key="Google Scholar">
 								<a href="https://scholar.google.com/citations?user=30a5mKUAAAAJ&hl=en&oi=sra" target="_blank">
@@ -71,7 +71,7 @@ class Header extends Component {
 									<Icon icon="carbon:email" />
 								</a>
 							</li>
-						</ul>
+						</ul> */}
 					</div>
 				</div>
 
