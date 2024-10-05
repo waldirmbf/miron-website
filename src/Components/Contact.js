@@ -25,7 +25,10 @@ class Contact extends Component {
 							{complement}<br />
 							{city} {state}, {zip}
 						</span><br />
-						<span>{email}</span>
+						<a href="mailto:waldirmiron@uwf.edu" target="_blank">
+							<span>{email}</span>
+						</a>
+
 					</p>
 				</div>
 			</section>

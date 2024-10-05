@@ -9,33 +9,40 @@ class News extends Component {
 					<div className="row">
 						<h1>News</h1>
 						<div>
+							<p className="date"> August 30th 2024</p>
+							<p className="title"> Great News! </p>
+							<p className="content"> A lot has happened in the first semester of 2024. I completed two fieldwork seasons in Brazil and one in Costa Rica. I'm thrilled to share that I have relocated to Pensacola, Florida, to begin a role as an Assistant Professor at the University of West Florida! I'm still adjusting to this new position, and I will be updating this website accordingly. Stay tuned for updates from what is now officially the Miron Lab! </p>
+							<img alt="WaldirUWF" src="images/WaldirUWF.jpeg" />
+							<hr />
+						</div>
+						<div>
 							<p className="date"> January 19th 2024</p>
 							<p className="title"> Happy New Year! </p>
 							<p className="content"> The last months of 2023 were intense but rewarding. Another successful fieldwork trip in Brazil resulted in a lot of sperm perfomance data for 15 Poeciliidae species, along with research talks and good collaborations. I am excited on what is to come is 2024! </p>
 							<img alt="ParqueDosAparados" src="images/ParqueDosAparados.jpg" />
 							<hr />
-							</div>
+						</div>
 						<div>
 							<p className="date"> July 17th 2023</p>
 							<p className="title"> Two pieces of good news! </p>
 							<p className="content"> Two pieces of good news at once! First, <a href="https://doi.org/10.1093/evolut/qpad129" target="_blank">our study</a> (led by <a href="https://fredericfyon.github.io/Home/" target="_blank">Dr. Frédéric Fyon</a>) on the emergence of asexuality via selection in a hybrid context was accepted in Evolution. More on that soon!</p>
 							<p className="content"> Also, I was awarded a small-research grant by <a href="https://fsbi.org.uk/" target="_blank">FSBI</a> to study poecillids sperm biology for species in Brazil!!! Exciting fieldwork and data to come!</p>
 							<hr />
-							</div>
+						</div>
 						<div>
 							<p className="date"> June 21-25, 2023</p>
 							<p className="title"> Schlupp lab goes to Albuquerque for Evolution 2023. </p>
 							<p className="content"> We had a great time at Evolution 2023 in Albuquerque. I presented a poster on sperm evolution in poecillids, and received great feedback! I am currently applying for funds to collect more sperm data from other poeciliid species. Please, get in contact in case you have some poecillids in your lab.</p>
 							<img alt="The sex(y) life of fishes" src="images/SchluppLab_Evo2023.jpeg" />
 							<hr />
-							</div>
+						</div>
 						<div>
 							<p className="date"> March 06th, 2023</p>
 							<p className="title"> Fourth episode of book club on "The evolution of Beauty" available on Youtube! </p>
 							<p className="content"> Our Youtube channel <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, aimed for portuguese-speakers, has now released its fourth <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> video</a> discussing the book "The Evolution of Beauty" by Richard Prum. This time we discuss the concept of the amazing bowers by bowerbids as well as the evolution of lekking in manakins.</p>
 							<p className="content">
-							 In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu quarto <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> vídeo</a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
-							 Desta vez discutimos as arenas sexuais feitos pelos bowerbirds, assim como a evolução dos lekkings em tangarás. </p>
+								In PT: Nosso canal no Youtube <a href="https://www.youtube.com/channel/UCcjP3uH7VFk4n_lIc4bgxbQ" target="_blank">Ler Com Ciência</a>, lançou ontem seu quarto <a href="https://www.youtube.com/watch?v=HV0FT1gCgOU&ab_channel=LerComCi%C3%AAncia" target="_blank"> vídeo</a> discutindo o livro "The Evolution of Beauty" de Richard Prum.
+								Desta vez discutimos as arenas sexuais feitos pelos bowerbirds, assim como a evolução dos lekkings em tangarás. </p>
 							<hr />
 						</div>
 						<div>
